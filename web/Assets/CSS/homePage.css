@@ -1,0 +1,25 @@
+.college-name{
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px rgba(0,0,0,0.7);
+    margin-left: 40vw;
+}
+.welcome-admin{
+    font-size: 70px;
+}
+.welcome{
+    text-align: center;
+}
+.card{
+    height: 500px;
+    margin-top: 30px;
+    
+}
+footer{
+    margin-top: 52px;
+}
+.that-time-user{
+    float: right;
+    color: white;
+    font-size: 20px;
+}
